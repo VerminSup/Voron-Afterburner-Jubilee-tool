@@ -15,7 +15,7 @@ Screws (head size shouldn't matter)
 
 -M3x26 (1x)
 
--M3x6 flathead
+-M3x6 flathead (5x)
 
 -M3x40 (2x)
 
