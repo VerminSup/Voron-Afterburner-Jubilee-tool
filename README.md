@@ -24,7 +24,7 @@ Printed parts
 
 -Left wing
 
--Right wing (left wing-mir)
+-Right wing
 
 -Motor plate
 
