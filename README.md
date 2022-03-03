@@ -4,33 +4,6 @@ A tool for the Jubilee printer using a Voron afterburner extruder
 ![alt text](https://github.com/VerminSup/Voron-Afterburner-Jubilee-tool/blob/main/image_2022-03-03_220738.png)
 
 
-Printed parts
-
--Guidler
--Latch shuttle
-
--Latch
-
--Main body
-
--E3D V6 Fan
-
--Back fan shroud
-
--Blower casing
-
--Fan assembly
-
--Front cover
-
--Left wing
-
--Right wing
-
--Motor plate
-
-
-
 
 Screws (head size shouldn't matter)
 
@@ -55,10 +28,6 @@ Screws (head size shouldn't matter)
 -Long insert (14x)
 
 -Short insert (5x)
-
-
-
-
 
 -5x9x2 o-ring (4x)
 
