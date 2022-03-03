@@ -1,7 +1,7 @@
 # Voron-Afterburner-Jubilee-tool
 A tool for the Jubilee printer using a Voron afterburner extruder
 
-![alt text](https://github.com/VerminSup/Voron-Afterburner-Jubilee-tool/blob/main/image_2022-03-03_220738.png)
+![alt text](https://github.com/VerminSup/Voron-Afterburner-Jubilee-tool/blob/main/Afterburner.PNG)
 
 
 
