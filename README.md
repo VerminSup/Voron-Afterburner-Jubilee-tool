@@ -30,7 +30,7 @@ Screws (head size shouldn't matter)
 
 -5x9x2 o-ring (4x)
 -40mm ptfe tube
--4020 blower fan
+-4020 blower fan ;
 -40x40x10 fan
 
 
