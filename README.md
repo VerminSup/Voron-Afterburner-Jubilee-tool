@@ -1,6 +1,8 @@
 # Voron-Afterburner-Jubilee-tool
 A tool for the Jubilee printer using a Voron afterburner extruder
 
+
+
 Printed parts
 
 -Guidler
@@ -27,6 +29,8 @@ Printed parts
 -Motor plate
 
 
+
+
 Screws (head size shouldn't matter)
 
 -M3x8 (1x)
@@ -50,6 +54,8 @@ Screws (head size shouldn't matter)
 -Long insert (14x)
 
 -Short insert (5x)
+
+
 
 
 
